@@ -1,0 +1,8 @@
+{
+    "mplab.clangd.compileCommandsDir": "${workspaceFolder}/_build/AssemblyEnv/default",
+    "mplab.clangd.arguments": [
+        "--header-insertion=never"
+    ],
+    "mplab.clangd.path": "/opt/microchip/xc8/v3.10/bin/xc8-clangd",
+    "cmake.sourceDirectory": "/home/aaa/Projects/MPLABProjects/Microcontrollers/cmake/AssemblyEnv/default"
+}

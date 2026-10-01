@@ -1,0 +1,20 @@
+[
+{
+  "directory": "/home/aaa/Projects/MPLABProjects/Microcontrollers/_build/AssemblyEnv/default",
+  "command": "/opt/microchip/xc8/v3.10/bin/xc8-cc -DXPRJ_default=default -D__18F46K22__ -D__DEBUG=1 -D__MPLAB_DEBUGGER_SIMULATOR=1 -c -mcpu=18F46K22 -mdfp=/home/aaa/.mchp_packs/Microchip/PIC18F-K_DFP/1.17.312/xc8 -fno-short-double -fno-short-float -memi=wordwrite -O0 -maddrqual=ignore -mwarn=-3 -msummary=-psect,-class,+mem,-hex,-file -ginhx32 -Wl,--data-init -mno-keep-startup -mno-download -mno-default-config-bits -std=c99 -gdwarf-3 -mstack=compiled:auto:auto:auto -o CMakeFiles/AssemblyEnv_default_default_XC8_compile.dir/home/aaa/Projects/MPLABProjects/Microcontrollers/projects/Lab3/src/main.c.p1 -c /home/aaa/Projects/MPLABProjects/Microcontrollers/projects/Lab3/src/main.c",
+  "file": "/home/aaa/Projects/MPLABProjects/Microcontrollers/projects/Lab3/src/main.c",
+  "output": "/home/aaa/Projects/MPLABProjects/Microcontrollers/_build/AssemblyEnv/default/CMakeFiles/AssemblyEnv_default_default_XC8_compile.dir/home/aaa/Projects/MPLABProjects/Microcontrollers/projects/Lab3/src/main.c.p1"
+},
+{
+  "directory": "/home/aaa/Projects/MPLABProjects/Microcontrollers/_build/AssemblyEnv/default",
+  "command": "/opt/microchip/xc8/v3.10/bin/xc8-cc -DXPRJ_default=default -D__18F46K22__ -D__DEBUG=1 -D__MPLAB_DEBUGGER_SIMULATOR=1 -c -mcpu=18F46K22 -mdfp=/home/aaa/.mchp_packs/Microchip/PIC18F-K_DFP/1.17.312/xc8 -fno-short-double -fno-short-float -memi=wordwrite -O0 -maddrqual=ignore -mwarn=-3 -msummary=-psect,-class,+mem,-hex,-file -ginhx32 -Wl,--data-init -mno-keep-startup -mno-download -mno-default-config-bits -std=c99 -gdwarf-3 -mstack=compiled:auto:auto:auto -o CMakeFiles/AssemblyEnv_default_default_XC8_compile.dir/home/aaa/Projects/MPLABProjects/Microcontrollers/projects/Lab4/src/LCD.c.p1 -c /home/aaa/Projects/MPLABProjects/Microcontrollers/projects/Lab4/src/LCD.c",
+  "file": "/home/aaa/Projects/MPLABProjects/Microcontrollers/projects/Lab4/src/LCD.c",
+  "output": "/home/aaa/Projects/MPLABProjects/Microcontrollers/_build/AssemblyEnv/default/CMakeFiles/AssemblyEnv_default_default_XC8_compile.dir/home/aaa/Projects/MPLABProjects/Microcontrollers/projects/Lab4/src/LCD.c.p1"
+},
+{
+  "directory": "/home/aaa/Projects/MPLABProjects/Microcontrollers/_build/AssemblyEnv/default",
+  "command": "/opt/microchip/xc8/v3.10/bin/xc8-cc -DXPRJ_default=default -D__18F46K22__ -D__DEBUG=1 -D__MPLAB_DEBUGGER_SIMULATOR=1 -c -mcpu=18F46K22 -mdfp=/home/aaa/.mchp_packs/Microchip/PIC18F-K_DFP/1.17.312/xc8 -fno-short-double -fno-short-float -memi=wordwrite -O0 -maddrqual=ignore -mwarn=-3 -msummary=-psect,-class,+mem,-hex,-file -ginhx32 -Wl,--data-init -mno-keep-startup -mno-download -mno-default-config-bits -std=c99 -gdwarf-3 -mstack=compiled:auto:auto:auto -o CMakeFiles/AssemblyEnv_default_default_XC8_compile.dir/home/aaa/Projects/MPLABProjects/Microcontrollers/projects/Lab4/src/main.c.p1 -c /home/aaa/Projects/MPLABProjects/Microcontrollers/projects/Lab4/src/main.c",
+  "file": "/home/aaa/Projects/MPLABProjects/Microcontrollers/projects/Lab4/src/main.c",
+  "output": "/home/aaa/Projects/MPLABProjects/Microcontrollers/_build/AssemblyEnv/default/CMakeFiles/AssemblyEnv_default_default_XC8_compile.dir/home/aaa/Projects/MPLABProjects/Microcontrollers/projects/Lab4/src/main.c.p1"
+}
+]

@@ -1,0 +1,4 @@
+/home/aaa/Projects/MPLABProjects/Microcontrollers/_build/AssemblyEnv/default/CMakeFiles/AssemblyEnv_default_default_XC8_compile.dir
+/home/aaa/Projects/MPLABProjects/Microcontrollers/_build/AssemblyEnv/default/CMakeFiles/AssemblyEnv_default_image_egC35XTy.dir
+/home/aaa/Projects/MPLABProjects/Microcontrollers/_build/AssemblyEnv/default/CMakeFiles/edit_cache.dir
+/home/aaa/Projects/MPLABProjects/Microcontrollers/_build/AssemblyEnv/default/CMakeFiles/rebuild_cache.dir
