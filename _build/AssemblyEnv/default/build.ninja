@@ -74,12 +74,22 @@ build CMakeFiles/AssemblyEnv_default_default_XC8_compile.dir/home/aaa/Projects/M
   TARGET_PDB = ""
   TARGET_SUPPORT_DIR = CMakeFiles/AssemblyEnv_default_default_XC8_compile.dir
 
+build CMakeFiles/AssemblyEnv_default_default_XC8_compile.dir/home/aaa/Projects/MPLABProjects/Microcontrollers/projects/Lab5/src/main.c.p1: C_COMPILER__AssemblyEnv_default_default_XC8_compile_unscanned_ /home/aaa/Projects/MPLABProjects/Microcontrollers/projects/Lab5/src/main.c || cmake_object_order_depends_target_AssemblyEnv_default_default_XC8_compile
+  DEFINES = -DXPRJ_default=default -D__18F46K22__ -D__DEBUG=1 -D__MPLAB_DEBUGGER_SIMULATOR=1
+  DEP_FILE = CMakeFiles/AssemblyEnv_default_default_XC8_compile.dir/home/aaa/Projects/MPLABProjects/Microcontrollers/projects/Lab5/src/main.c.p1.d
+  FLAGS = -c -mcpu=18F46K22 -mdfp=/home/aaa/.mchp_packs/Microchip/PIC18F-K_DFP/1.17.312/xc8 -fno-short-double -fno-short-float -memi=wordwrite -O0 -maddrqual=ignore -mwarn=-3 -msummary=-psect,-class,+mem,-hex,-file -ginhx32 -Wl,--data-init -mno-keep-startup -mno-download -mno-default-config-bits -std=c99 -gdwarf-3 -mstack=compiled:auto:auto:auto
+  OBJECT_DIR = CMakeFiles/AssemblyEnv_default_default_XC8_compile.dir
+  OBJECT_FILE_DIR = CMakeFiles/AssemblyEnv_default_default_XC8_compile.dir/home/aaa/Projects/MPLABProjects/Microcontrollers/projects/Lab5/src
+  TARGET_COMPILE_PDB = CMakeFiles/AssemblyEnv_default_default_XC8_compile.dir/
+  TARGET_PDB = ""
+  TARGET_SUPPORT_DIR = CMakeFiles/AssemblyEnv_default_default_XC8_compile.dir
+
 
 
 #############################################
 # Object library AssemblyEnv_default_default_XC8_compile
 
-build AssemblyEnv_default_default_XC8_compile: phony CMakeFiles/AssemblyEnv_default_default_XC8_compile.dir/home/aaa/Projects/MPLABProjects/Microcontrollers/projects/Lab3/src/main.c.p1 CMakeFiles/AssemblyEnv_default_default_XC8_compile.dir/home/aaa/Projects/MPLABProjects/Microcontrollers/projects/Lab4/src/LCD.c.p1 CMakeFiles/AssemblyEnv_default_default_XC8_compile.dir/home/aaa/Projects/MPLABProjects/Microcontrollers/projects/Lab4/src/main.c.p1
+build AssemblyEnv_default_default_XC8_compile: phony CMakeFiles/AssemblyEnv_default_default_XC8_compile.dir/home/aaa/Projects/MPLABProjects/Microcontrollers/projects/Lab3/src/main.c.p1 CMakeFiles/AssemblyEnv_default_default_XC8_compile.dir/home/aaa/Projects/MPLABProjects/Microcontrollers/projects/Lab4/src/LCD.c.p1 CMakeFiles/AssemblyEnv_default_default_XC8_compile.dir/home/aaa/Projects/MPLABProjects/Microcontrollers/projects/Lab4/src/main.c.p1 CMakeFiles/AssemblyEnv_default_default_XC8_compile.dir/home/aaa/Projects/MPLABProjects/Microcontrollers/projects/Lab5/src/main.c.p1
 
 # =============================================================================
 # Object build statements for EXECUTABLE target AssemblyEnv_default_image_egC35XTy
@@ -98,7 +108,7 @@ build cmake_object_order_depends_target_AssemblyEnv_default_image_egC35XTy: phon
 #############################################
 # Link the executable /home/aaa/Projects/MPLABProjects/Microcontrollers/out/AssemblyEnv/default.elf
 
-build /home/aaa/Projects/MPLABProjects/Microcontrollers/out/AssemblyEnv/default.elf: C_EXECUTABLE_LINKER__AssemblyEnv_default_image_egC35XTy_ CMakeFiles/AssemblyEnv_default_default_XC8_compile.dir/home/aaa/Projects/MPLABProjects/Microcontrollers/projects/Lab3/src/main.c.p1 CMakeFiles/AssemblyEnv_default_default_XC8_compile.dir/home/aaa/Projects/MPLABProjects/Microcontrollers/projects/Lab4/src/LCD.c.p1 CMakeFiles/AssemblyEnv_default_default_XC8_compile.dir/home/aaa/Projects/MPLABProjects/Microcontrollers/projects/Lab4/src/main.c.p1 || AssemblyEnv_default_default_XC8_compile
+build /home/aaa/Projects/MPLABProjects/Microcontrollers/out/AssemblyEnv/default.elf: C_EXECUTABLE_LINKER__AssemblyEnv_default_image_egC35XTy_ CMakeFiles/AssemblyEnv_default_default_XC8_compile.dir/home/aaa/Projects/MPLABProjects/Microcontrollers/projects/Lab3/src/main.c.p1 CMakeFiles/AssemblyEnv_default_default_XC8_compile.dir/home/aaa/Projects/MPLABProjects/Microcontrollers/projects/Lab4/src/LCD.c.p1 CMakeFiles/AssemblyEnv_default_default_XC8_compile.dir/home/aaa/Projects/MPLABProjects/Microcontrollers/projects/Lab4/src/main.c.p1 CMakeFiles/AssemblyEnv_default_default_XC8_compile.dir/home/aaa/Projects/MPLABProjects/Microcontrollers/projects/Lab5/src/main.c.p1 || AssemblyEnv_default_default_XC8_compile
   LINK_FLAGS = -Wl,-Map=mem.map -mcpu=18F46K22 -Wl,--defsym=__MPLAB_BUILD=1 -mdfp=/home/aaa/.mchp_packs/Microchip/PIC18F-K_DFP/1.17.312/xc8 -fno-short-double -fno-short-float -memi=wordwrite -O0 -maddrqual=ignore -mwarn=-3 -msummary=-psect,-class,+mem,-hex,-file -ginhx32 -Wl,--data-init -mno-keep-startup -mno-download -mno-default-config-bits -std=c99 -gdwarf-3 -mstack=compiled:auto:auto:auto -Wl,--memorysummary,memoryfile.xml
   OBJECT_DIR = CMakeFiles/AssemblyEnv_default_image_egC35XTy.dir
   POST_BUILD = cd /home/aaa/Projects/MPLABProjects/Microcontrollers/out/AssemblyEnv && /opt/microchip/xc8/v3.10/bin/pic-objdump --disassemble --wide --demangle --line-numbers --section-headers --source default.elf > default.lss

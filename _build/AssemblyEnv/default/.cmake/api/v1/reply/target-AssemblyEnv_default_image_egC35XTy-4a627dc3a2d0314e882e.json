@@ -210,7 +210,8 @@
 			[
 				0,
 				1,
-				2
+				2,
+				3
 			]
 		}
 	],
@@ -244,6 +245,16 @@
 			],
 			"isGenerated" : true,
 			"path" : "/home/aaa/Projects/MPLABProjects/Microcontrollers/_build/AssemblyEnv/default/CMakeFiles/AssemblyEnv_default_default_XC8_compile.dir/home/aaa/Projects/MPLABProjects/Microcontrollers/projects/Lab4/src/main.c.p1",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"backtraces" : 
+			[
+				3
+			],
+			"isGenerated" : true,
+			"path" : "/home/aaa/Projects/MPLABProjects/Microcontrollers/_build/AssemblyEnv/default/CMakeFiles/AssemblyEnv_default_default_XC8_compile.dir/home/aaa/Projects/MPLABProjects/Microcontrollers/projects/Lab5/src/main.c.p1",
 			"sourceGroupIndex" : 0
 		}
 	],

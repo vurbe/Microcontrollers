@@ -18,7 +18,8 @@ endforeach()
 set(AssemblyEnv_default_default_XC8_FILE_TYPE_compile
     "${CMAKE_CURRENT_SOURCE_DIR}/../../../projects/Lab3/src/main.c"
     "${CMAKE_CURRENT_SOURCE_DIR}/../../../projects/Lab4/src/LCD.c"
-    "${CMAKE_CURRENT_SOURCE_DIR}/../../../projects/Lab4/src/main.c")
+    "${CMAKE_CURRENT_SOURCE_DIR}/../../../projects/Lab4/src/main.c"
+    "${CMAKE_CURRENT_SOURCE_DIR}/../../../projects/Lab5/src/main.c")
 set_source_files_properties(${AssemblyEnv_default_default_XC8_FILE_TYPE_compile} PROPERTIES LANGUAGE C)
 set(AssemblyEnv_default_default_XC8_FILE_TYPE_link)
 set(AssemblyEnv_default_default_XC8_FILE_TYPE_objcopy_lss)
