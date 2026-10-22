@@ -5,6 +5,7 @@ xc8_add_firmware(
     DEVICE_FILE "${CMAKE_SOURCE_DIR}/cmake/devices/PIC18F46K22.cmake"
     SOURCES
         src/main.c
+        src/LCD.c
     HEADERS
         include/Configuration.h
     INCLUDE_DIRS
