@@ -1,12 +1,14 @@
 include("${CMAKE_SOURCE_DIR}/cmake/XC8Firmware.cmake")
 
 xc8_add_firmware(
-    NAME Lab5
+    NAME Lab7
     DEVICE_FILE "${CMAKE_SOURCE_DIR}/cmake/devices/PIC18F46K22.cmake"
     SOURCES
         src/main.c
+        src/LCD.c
     HEADERS
         include/Configuration.h
+        include/LCD.h
     INCLUDE_DIRS
         include
     COMPILE_OPTIONS

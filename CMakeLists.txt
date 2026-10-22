@@ -4,7 +4,7 @@ cmake_minimum_required(VERSION 3.20)
 # languages avoids CMake's GCC/Clang compiler-detection assumptions.
 project(PIC18Projects LANGUAGES NONE)
 
-set(FIRMWARE_PROJECT "Lab3" CACHE STRING
+set(FIRMWARE_PROJECT "Lab6" CACHE STRING
     "Folder name under projects/ to configure")
 
 set(project_directory "${CMAKE_CURRENT_SOURCE_DIR}/projects/${FIRMWARE_PROJECT}")

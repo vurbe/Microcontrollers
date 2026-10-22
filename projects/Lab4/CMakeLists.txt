@@ -8,6 +8,7 @@ xc8_add_firmware(
         src/LCD.c
     HEADERS
         include/Configuration.h
+        include/LCD.h
     INCLUDE_DIRS
         include
     COMPILE_OPTIONS

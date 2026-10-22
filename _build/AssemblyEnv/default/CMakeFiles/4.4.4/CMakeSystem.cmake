@@ -1,6 +1,6 @@
-set(CMAKE_HOST_SYSTEM "Linux-7.2.8-1-cachyos")
+set(CMAKE_HOST_SYSTEM "Linux-7.2.10-1-cachyos")
 set(CMAKE_HOST_SYSTEM_NAME "Linux")
-set(CMAKE_HOST_SYSTEM_VERSION "7.2.8-1-cachyos")
+set(CMAKE_HOST_SYSTEM_VERSION "7.2.10-1-cachyos")
 set(CMAKE_HOST_SYSTEM_PROCESSOR "x86_64")
 
 include("/home/aaa/Projects/MPLABProjects/Microcontrollers/cmake/AssemblyEnv/default/.generated/toolchain.cmake")
